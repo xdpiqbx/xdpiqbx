@@ -22,7 +22,7 @@ After the police, I joined the [military service under a contract](https://do.go
 
 However, since May 2020, I have started to pay much more attention to learning programming. I completed a long and very interesting **Full Stack Developer** course. During the course, I significantly improved my knowledge in `HTML`, `CSS`, `Bootstrap`, `JS`. Studied and can use: `ReactJS`, `Redux`, `Node.js` (`NPM`), `MongoDB`, `Express.js`, `WEBPACK`, `Handlebars`.
 
-For work, I wrote a Telegram bots:
+For work, I wrote Telegram bots:
 - this bot reminded of colleagues' birthdays: [repo](https://github.com/xdpiqbx/date-remainder-sf-production)
 - this bot helped keep track of vehicles in the unit and kept a history of each vehicle's refueling, including refueling receipts: [repo](https://github.com/xdpiqbx/sbi_refuel_bot)
 
@@ -60,17 +60,3 @@ But if you are looking for such an inexperienced employee in your team, I am rea
 Sincerely, Artem
 
 *artem.usenko@gmail.com*
-<!--
-**xdpiqbx/xdpiqbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
