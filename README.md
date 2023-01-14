@@ -59,7 +59,7 @@ But if you are looking for such an inexperienced employee in your team, I am rea
 
 Sincerely, Artem
 
-[artem.usenko@gmail.com](artem.usenko@gmail.com)
+*artem.usenko@gmail.com*
 <!--
 **xdpiqbx/xdpiqbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
