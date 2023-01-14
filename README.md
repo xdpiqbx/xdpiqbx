@@ -22,7 +22,7 @@ After the police, I joined the [military service under a contract](https://do.go
 
 However, since May 2020, I have started to pay much more attention to learning programming. I completed a long and very interesting **Full Stack Developer** course. During the course, I significantly improved my knowledge in `HTML`, `CSS`, `Bootstrap`, `JS`. Studied and can use: `ReactJS`, `Redux`, `Node.js` (`NPM`), `MongoDB`, `Express.js`, `WEBPACK`, `Handlebars`.
 
-For work, I wrote Telegram bots:
+I wrote a few Telegram bots for work:
 - this bot reminded of colleagues' birthdays: [repo](https://github.com/xdpiqbx/date-remainder-sf-production)
 - this bot helped keep track of vehicles in the unit and kept a history of each vehicle's refueling, including refueling receipts: [repo](https://github.com/xdpiqbx/sbi_refuel_bot)
 
@@ -55,9 +55,9 @@ I started learning Java in May 2022. And I have already studied such topics:
 
 I'm almost done with my basic programming training and ready to start looking for a job.
 
-I understand well that I do not have enough work experience in team solving of business tasks.
+Even though my experience in solving business tasks with a team is limited, I am a very fast learner and a good communicator with a sharp eye for details.
 
-But if you are looking for such an inexperienced employee in your team, I am ready to take on the job.
+If you are looking for a hard-working, self-motivated junior (trainee) developer with a huge desire to learn more, look no further, I am your guy =)
 
 ---
 
