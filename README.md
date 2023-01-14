@@ -40,14 +40,26 @@ I started learning Java in May 2022. And I have already studied such topics:
 - #### Java Core module:
   - `Generics`, `Java Collection Framework`, `Map`, `File`, `Streams`, `Stream API`, `lambdas`, `Threads`, `interfaces Executor`, etc.
 - #### Java Developer module:
-  - Maven, Gradle, Tests, SQL, JDBC, CRUD, Migrations (Flyway framework), Servlets (Tomcat), Web Filters, Cookie & Session, Thymeleaf, Hibernate
+  - `Maven`, `Gradle`, `Tests`, `SQL`, `JDBC`, `CRUD`, `Migrations` (`Flyway framework`), `Servlets` (`Tomcat`), `Web Filters`, `Cookie` & `Session`, `Thymeleaf`, `Hibernate`
+
+*And I had to do all this exclusively in my own time, I could do it at work. Combined with work trips*
+
+**On December 20, 2022, I officially resigned from my job in the rank of lieutenant colonel. I will be a programmer.**
+
 - #### Spring
-  - Spring Boot, Spring MVC, Spring Data, Spring Security
+  - `Spring Boot`, `Spring MVC`, `Spring Data`, `Spring Security`
 - #### CI/CD
-  - Jenkins, Github Actions, Docker
+  - `Jenkins`, `Github Actions`, `Docker`
 
-*And I had to do all this exclusively in my own time, I could do it at work.*
+I'm almost done with my basic programming training and ready to start looking for a job.
 
+I understand well that I do not have enough work experience in team solving of business tasks.
+
+But if you are looking for such an inexperienced employee in your team, I am ready to take on the job.
+
+Sincerely, Artem
+
+[artem.usenko@gmail.com](artem.usenko@gmail.com)
 <!--
 **xdpiqbx/xdpiqbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
