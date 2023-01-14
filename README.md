@@ -51,11 +51,15 @@ I started learning Java in May 2022. And I have already studied such topics:
 - #### CI/CD
   - `Jenkins`, `Github Actions`, `Docker`
 
+---
+
 I'm almost done with my basic programming training and ready to start looking for a job.
 
 I understand well that I do not have enough work experience in team solving of business tasks.
 
 But if you are looking for such an inexperienced employee in your team, I am ready to take on the job.
+
+---
 
 Sincerely, Artem
 
