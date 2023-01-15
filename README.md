@@ -71,4 +71,4 @@ If you are looking for a hard-working, self-motivated junior (trainee) developer
 
 Sincerely, Artem
 
-[![linkedin_banner](./images/linkedin.png)](https://www.linkedin.com/in/artem-usenko/)
+[![linkedin_banner](./images/linkedin_banner.svg)](https://www.linkedin.com/in/artem-usenko/)
