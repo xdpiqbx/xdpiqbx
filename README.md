@@ -1,4 +1,4 @@
-### Hi there 👋 my name's Artem.
+### Hi there 👋 my name's Artem
 
 I am a former law enforcement officer and former military.
 
@@ -23,6 +23,7 @@ After the police, I joined the [military service under a contract](https://do.go
 However, since May 2020, I have started to pay much more attention to learning programming. I completed a long and very interesting **Full Stack Developer** course. During the course, I significantly improved my knowledge in `HTML`, `CSS`, `Bootstrap`, `JS`. Studied and can use: `ReactJS`, `Redux`, `Node.js` (`NPM`), `MongoDB`, `Express.js`, `WEBPACK`, `Handlebars`.
 
 I wrote a few Telegram bots for work:
+
 - this bot reminded of colleagues' birthdays: [repo](https://github.com/xdpiqbx/date-remainder-sf-production)
 - this bot helped keep track of vehicles in the unit and kept a history of each vehicle's refueling, including refueling receipts: [repo](https://github.com/xdpiqbx/sbi_refuel_bot)
 
@@ -37,18 +38,25 @@ Also, the fuel accounting system has changed at work and the need to scale the b
 While I was learning the web, I really liked the backend (`Node.js`, `MongoDB`, `Express.js`). And when it became a little easier at work, I decided to start learning Java.
 
 I started learning Java in May 2022. And I have already studied such topics:
-- #### Java Core module:
+
+- #### Java Core module
+
   - `Generics`, `Java Collection Framework`, `Map`, `File`, `Streams`, `Stream API`, `lambdas`, `Threads`, `interfaces Executor`, etc.
-- #### Java Developer module:
+
+- #### Java Developer module
+
   - `Maven`, `Gradle`, `Tests`, `SQL`, `JDBC`, `CRUD`, `Migrations` (`Flyway framework`), `Servlets` (`Tomcat`), `Web Filters`, `Cookie` & `Session`, `Thymeleaf`, `Hibernate`
 
-*And I had to do all this exclusively in my own time, I could do it at work. Combined with work trips*
+And I had to do all this exclusively in my own time, I could do it at work. Combined with work trip
 
 **On December 20, 2022, I officially resigned from my job in the rank of lieutenant colonel. I will be a programmer.**
 
 - #### Spring
+
   - `Spring Boot`, `Spring MVC`, `Spring Data`, `Spring Security`
+
 - #### CI/CD
+
   - `Jenkins`, `Github Actions`, `Docker`
 
 ---
@@ -63,4 +71,4 @@ If you are looking for a hard-working, self-motivated junior (trainee) developer
 
 Sincerely, Artem
 
-*artem.usenko@gmail.com*
+[![linkedin_banner](./images/linkedin.png)](https://www.linkedin.com/in/artem-usenko/)
