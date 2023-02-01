@@ -20,7 +20,7 @@ After the police, I joined the [military service under a contract](https://do.go
 
 ### WEB
 
-However, since May 2020, I have started to pay much more attention to learning programming. I completed a long and very interesting **Full Stack Developer** course. During the course, I significantly improved my knowledge in `HTML`, `CSS`, `Bootstrap`, `JS`. Studied and can use: `ReactJS`, `Redux`, `Node.js` (`NPM`), `MongoDB`, `Express.js`, `WEBPACK`, `Handlebars`.
+However, since June 2020, I have started to pay much more attention to learning programming. I completed a long and very interesting **Full Stack Developer** course. During the course, I significantly improved my knowledge in `HTML`, `CSS`, `Bootstrap`, `JS`. Studied and can use: `ReactJS`, `Redux`, `Node.js` (`NPM`), `MongoDB`, `Express.js`, `WEBPACK`, `Handlebars`. (course ends in April 2021)
 
 I wrote a few Telegram bots for work:
 
