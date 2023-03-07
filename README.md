@@ -35,6 +35,25 @@ Also, the fuel accounting system has changed at work and the need to scale the b
 
 ### JAVA
 
+- #### [Notes App](https://github.com/xdpiqbx/goit-java-final-course-project-notes) (my final course project)
+
+##### Here you can:
+- register, create, read, update, share or delete your notes.
+- You can make private or public notes. Also as admin you can see all users and change their roles.
+    
+**Stack:** Spring Boot, Spring MVC, Spring Data, Spring Security, Gradle, Thymeleaf, Flyway
+
+---
+
+- #### [Quick JSON Generator](https://github.com/xdpiqbx/java-spring-quick-json-generator) (my final course project)
+
+##### Here you can:
+Starts on localhost. Choose quantity and fields by checking checkboxes and generate.
+
+**Stack:** Java, Spring MVC, Maven, Thymeleaf
+
+---
+
 While I was learning the web, I really liked the backend (`Node.js`, `MongoDB`, `Express.js`). And when it became a little easier at work, I decided to start learning Java.
 
 I started learning Java in May 2022. And I have already studied such topics:
