@@ -45,7 +45,7 @@ Also, the fuel accounting system has changed at work and the need to scale the b
 
 ---
 
-- #### [Quick JSON Generator](https://github.com/xdpiqbx/java-spring-quick-json-generator) (my final course project)
+- #### [Quick JSON Generator](https://github.com/xdpiqbx/java-spring-quick-json-generator)
 
 ##### Here you can:
 Starts on localhost. Choose quantity and fields by checking checkboxes and generate.
