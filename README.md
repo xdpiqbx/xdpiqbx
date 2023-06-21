@@ -1,1 +1,1 @@
-![codewars](https://www.codewars.com/users/xdpiqbx/badges/large)
+![codewars](https://www.codewars.com/users/xdpiqbx/badges/small)
